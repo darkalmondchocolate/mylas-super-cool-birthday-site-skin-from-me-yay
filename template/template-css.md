@@ -1,6 +1,3 @@
-<p>NOT MINE !!! ALL RIGHTS RESERVED TO WHOEVER MADE IT (high key i forgot oops but i found it on tumblr i think i reblogged it on my main acct, but if you know who this belongs to or if ur the person that made it and want me to take this down (or give credit) then i will dwwww </p>
-
-<p>
 #outer {
   background: #F3E9E0;
 }
@@ -952,4 +949,3 @@ a.rss span {
   background-size: cover;
   content: "";
 }
-</p>
